@@ -1,0 +1,4 @@
+com\mycompany\notificable\MainNotificacion.class
+com\mycompany\notificable\Notificable.class
+com\mycompany\notificable\CorreoElectronico.class
+com\mycompany\notificable\SMS.class
