@@ -1,0 +1,4 @@
+com\mycompany\pago\MainPago.class
+com\mycompany\pago\Pago.class
+com\mycompany\pago\PagoConEfectivo.class
+com\mycompany\pago\PagoConTarjeta.class
